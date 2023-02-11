@@ -2,7 +2,7 @@
 
 Olá, meu nome é Cayan. Sou um apaixonado por tecnologia que acredita no poder da inovação para mudar o mundo.
 
-Com uma formação sólida em programação na trybe e uma paixão por resolver problemas complexos, eu busco constantemente aprender e aplicar novas técnicas e tecnologias para criar soluções inovadoras.
+Em uma formação sólida em programação na trybe e uma paixão por resolver problemas complexos, eu busco constantemente aprender e aplicar novas técnicas e tecnologias para criar soluções inovadoras.
 
 Além disso, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando meu conhecimento e aprendendo com outros entusiastas.
 
