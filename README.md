@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Olá, meu nome é Cayan, sou um apaixonado por tecnologia e problemas complexos, que acredita no poder da inovação para mudar o mundo. Busco onstantemente aprender e aplicar novas técnicas para criar soluções inovadoras.
+Olá, meu nome é Cayan, sou um apaixonado por tecnologia e problemas complexos, que acredita no poder da inovação para mudar o mundo. Busco constantemente aprender e aplicar novas técnicas para criar soluções inovadoras.
 
 Atualmente, em uma formação sólida na área de programação da trybe, uma Startup que está revolucionando a educação.
 
