@@ -7,6 +7,7 @@ Atualmente, em uma formação sólida na área de programação da trybe, uma St
 Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando meu conhecimento e aprendendo com outros entusiastas.
 
 <br>
+
 <!-- GITHUB STATUS -->
  
 <div align="center">
@@ -19,6 +20,7 @@ Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando
 <br>
 
 <!-- TECNOLOGIAS -->
+ 
 <div align="center">
  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -32,6 +34,7 @@ Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando
 </div>
 
 <!-- REDES SOCIAIS -->
+ 
 <div align="center">
   <a href="https://instagram.com/cayanmello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cayanmello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
