@@ -10,11 +10,11 @@ Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando
 
 <!-- GITHUB STATUS -->
  
-<div align="center" >
+<div align="center">
  
   <a href="https://github.com/cayanmello?tab=repositories">
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cayanmello&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayanmello&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cayanmello&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayanmello&layout=compact&langs_count=7&theme=great-gatsby"/> 
    
 </div>
 
@@ -42,7 +42,4 @@ Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando
    <a href="mailto:cayanneves@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=cayanmello)
-
-  ![Snake animation](https://github.com/cayanmello/cayanmello/blob/output/github-contribution-grid-snake.svg)
-
 </div>
