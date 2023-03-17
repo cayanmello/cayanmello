@@ -42,7 +42,4 @@ Ademais, eu sou um colaborador ativo na comunidade de tecnologia, compartilhando
    <a href="mailto:cayanneves@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>
  
  ![](https://visitor-badge.glitch.me/badge?page_id=cayanmello)
-
- ...
- 
 </div>
